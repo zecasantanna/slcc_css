@@ -4,7 +4,7 @@ Add simple CSS rules to design fonts and colors of your profile page.
 
 ## Specs
 
-[This is an example](https://lewagon.github.io/html-css-challenges/02-fonts-colors/) of what you should reproduce. Here is a list of CSS rules to write:
+[This is an example](https://tharper.github.io/slcc_css/week-01b-fonts-colors/) of what you should reproduce. Here is a list of CSS rules to write:
 
 
 ### Body

@@ -4,7 +4,7 @@ Use advanced selectors (id, class, grouping, descendant selectors) to fine-tune 
 
 ## Specs
 
-Here is [your objective](http://lewagon.github.io/html-css-challenges/04-advanced-selectors/). Any time you want to **name** an element of your page, ask yourself:
+Here is [your objective](https://tharper.github.io/slcc_css/week-03-advanced-selectors/). Any time you want to **name** an element of your page, ask yourself:
 
 - Should I use a `class` or an `id`? Is is unique or re-usable?
 - What name should I pick for my class?

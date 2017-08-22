@@ -12,7 +12,7 @@ Build a simple HTML page with the following elements (use the right HTML tags):
 - a list of your social links
 - a table of your favorite movies, sport teams, recipes, etc... depending on your hobbies.
 
-A picture is worth a thousand words, [here is what you should build in this challenge](https://lewagon.github.io/html-css-challenges/01-profile-content/)
+A picture is worth a thousand words, [here is what you should build in this challenge](https://tharper.github.io/slcc_css/week-01a-profile-content/)
 
 ## Tips & Resources
 
